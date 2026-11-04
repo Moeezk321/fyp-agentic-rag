@@ -9,5 +9,4 @@ This project aims to minimize hallucinations in E-commerce chatbots by implement
 -VectorDB Agent: Retrieves structured historical context from Pinecone using OpenAI embeddings(text-embedding-3-small)
 
 -Manager Agent: Coordinates both agents via asyncio.gather and synthesizes their outputs using OpenAI LLMs into a single accurate response.
-
-       Dual sourcing live web data and vector search effectively reduces LLM hallucinations and provides reliable customer support.
+    Dual sourcing live web data and vector search effectively reduces LLM hallucinations and provides reliable customer support.
