@@ -1,5 +1,5 @@
 # Reducing Hallucination In E-commerce Chatbots Via Multi-agent Retrieval-Augmented Generation
-Multi-Agent RAG framework designed to minimize LLM hallucinations in e-commerce customer support by integrating dynamic web scraping with Pinecone VectorDB retrieval using Streamlit UI.
+
 Standard LLMs in E-commerce frequently generate hallucinations like fabricating product specs,outdated stock or incorrect prices etc. This will lead to customer mistrust and bad experience.
 This project aims to minimize hallucinations in E-commerce chatbots by implementing a Multi-Agent Retrieval-Augmented Generation(RAG). RAG grounds LLM outputs by retrieving semantically relevant data from external knowldege bases before response generation. 
      The system feature three core agents:
